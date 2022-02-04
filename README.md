@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrayFlippn 🐇
 - 👀 I’m a student at Uppsala University.
-- 🧬 I’m currently studying Civil engineering int Biotechnology.
+- 🧬 I’m currently studying Civil engineering in Biotechnology.
 - 📫 Reach me at: filippa.nilsson.6036@student.uu.se
 
 <!---
